@@ -3,6 +3,8 @@ import 'dart:io';
 main() {
   var  A, B, C, D ; 
 
+/// exemple 2
+/// 
     print("entrer le score du candidat 1 :");
     A = stdin.readLineSync();
     int CA = int.parse(A);

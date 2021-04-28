@@ -1,6 +1,7 @@
 import 'dart:io';
 main() {
   
+  /// ajout de commentaire au projet de yves
 
   print("entrer l'heure : ");
   var heure = stdin.readLineSync();
